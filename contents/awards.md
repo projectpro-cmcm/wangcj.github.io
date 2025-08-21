@@ -1,16 +1,16 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 全国大学生数学建模大赛
 
-- National Scholarship for Graduate Student, 2024.
+- 第十五届中国高校计算机设计大赛————全国三等奖
 
-- First-Prize Scholarship (CUMT), 2024.
+- 全国大学生统计建模大赛————山东省一等奖
 
-- First-Prize Scholarship (CUMT), 2023.
+- 中国高校计算机设计大赛————山东省一等奖
 
-- Freshman Scholarship (CUMT), 2022.
+- 全国大学生数学建模大赛————山东省一等奖
 
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
+- 蓝桥杯python组————山东省二等奖
 
-- First-Prize Enterprise Scholarship (CUMT), 2020.
+- 全国大学生市场调研大赛
 
-- First-Prize Scholarship (CUMT), 2019.
+- 全国大学生数学竞赛
