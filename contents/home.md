@@ -1,17 +1,24 @@
+####学校
+山东科技大学数学与系统科学学院\
+数学与应用数学专业
 
+#### 联系方式
+Email: 15624391976@163.com\
+手机号：15624391976
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+#### 基本学业
+GPA:3.92/5 (有把握在预推免时拿到专业第一)\
 
-He is currently a Fellow in Shandong University.
+####英语水平
+六级：496\
+托福：108（听说读写小分）\
 
-#### Contact
+#### 主要科研兴趣
+深度学习、计算机视觉、3D点云
 
-Email: senli[at]fas.harvard.edu
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+####技能概述
+1.python编程（尤擅长pytorch深度学习部署）\
+2.C++编程（算法）\
+3.Matlab模拟\
+4.数学建模
 
